@@ -37,7 +37,7 @@ Technical Highlights:
 Visuals:
 
 Interface Preview
-Below is a visual mockup of the application interface:
+Below is a application interface:
 ![image](https://github.com/user-attachments/assets/fe754197-c198-4879-9f74-0bca6086ad80)
 
 
